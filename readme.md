@@ -154,6 +154,9 @@ After your implementation has been ran, the validator will check for errors, if 
 
 ### Changelog
 
+**Version 3.4.0**
+  - Improved support for deep-nested objects
+
 **Version 3.3.0**
   - Clean code
   - Optimize middleware to rely on `.check`
